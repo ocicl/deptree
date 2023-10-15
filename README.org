@@ -4,6 +4,6 @@ System dependency listing and archiving tool for Common Lisp
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/varjagg/deptree.git |
-| commit  | 33a7674                                    |
+| commit  | 134734f                                    |
 | systems | deptree                                    |
 |---------+--------------------------------------------|
